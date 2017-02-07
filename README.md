@@ -21,7 +21,7 @@ radiusSegments = Int    //segments along the fillet, default 1
 
 ## Usage
 
-[![NPM](https://nodei.co/npm/three-fps-counter.png)](https://npmjs.org/package/three-fps-counter)
+[![NPM](https://nodei.co/npm/three-rounded-box.png)](https://npmjs.org/package/three-rounded-box)
 
 ```javascript
 
