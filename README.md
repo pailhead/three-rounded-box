@@ -44,3 +44,8 @@ npm start
 You should see a box with smooth edges spinning.
 
 
+## TODO
+- cleanup the weaving thing
+- add segments along the sides
+
+
