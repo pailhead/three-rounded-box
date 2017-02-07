@@ -1,0 +1,37 @@
+{
+  "name": "three-rounded-box",
+  "version": "0.0.1",
+  "description": "Box geometry for three.js with filleted edges",
+  "main": "index.js",
+  "scripts": {
+    "start": "wzrd test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pailhead/three-rounded-box.git"
+  },
+  "keywords": [
+    "threejs",
+    "geometry",
+    "3d",
+    "javascript",
+    "box",
+    "rounded",
+    "smooth"
+  ],
+  "author": "Dusan Bosnjak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pailhead/three-rounded-box/issues"
+  },
+  "homepage": "https://github.com/pailhead/three-rounded-box#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^8.1.1",
+    "canvas-testbed": "^1.0.3",
+    "scriptjs": "^2.5.7",
+    "three": "^0.82.1",
+    "three-fps-counter": "^0.2.0",
+    "wzrd": "^1.2.1"
+  }
+}
