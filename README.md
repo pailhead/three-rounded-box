@@ -45,7 +45,7 @@ You should see a box with smooth edges spinning.
 
 
 ## TODO
-- cleanup the weaving thing
+- cleanup the weaving logic
 - add segments along the sides
 
 
