@@ -1,6 +1,6 @@
 {
   "name": "three-rounded-box",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Box geometry for three.js with filleted edges",
   "main": "index.js",
   "scripts": {
