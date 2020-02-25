@@ -1,5 +1,6 @@
 /**
  * @author pailhead / http://dusanbosnjak.com
+ * @author benolayinka / github.com/benolayinka
  */
 module.exports = function( THREE ){
 
@@ -540,9 +541,9 @@ RoundedBoxGeometry = function (
 
 	this.setIndex( new THREE.BufferAttribute( new Uint16Array( indices ) , 1 ) );
 	
-	this.addAttribute( 'position', positions );
+	this.setAttribute( 'position', positions );
 	
-	this.addAttribute( 'normal', normals );
+	this.setAttribute( 'normal', normals );
 	
 };
 
